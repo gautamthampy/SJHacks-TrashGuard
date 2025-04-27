@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+numpy
+streamlit-js-eval
+supabase
+google-cloud-storage

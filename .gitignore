@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+data/ # If you still have it locally
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+*.db* # If any sqlite remnants exist
